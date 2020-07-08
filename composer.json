@@ -1,6 +1,6 @@
 {
     "name": "silverstripe/installer",
-    "type": "silverstripe-recipe",
+    "type": "silverstripe-vendormodule",
     "description": "The SilverStripe Framework Installer",
     "require": {
         "php": ">=7.2",
