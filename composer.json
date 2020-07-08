@@ -1,5 +1,5 @@
 {
-    "name": "nzta/sdlt",
+    "name": "catalyst-elliot/sdlt",
     "type": "silverstripe-vendormodule",
     "description": "The SilverStripe Framework Installer",
     "require": {
